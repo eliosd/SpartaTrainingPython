@@ -1,0 +1,16 @@
+Pillars of OOP
+
+1. Abstraction - hide the complicated stuff
+2. Encapsulation -
+3. Inheritance - use methods from other classes
+4. Polymorphism - [Python - method overiding] use and modify classes to fit other classes [Other languages (method overloading - methods can take different forms)]
+
+
+
+SOLID Principles
+
+S- Single responsibility
+O- Open for extension, closed for modification
+L- Liskov substitution
+I- Interface segregation
+D- Dependency inversion
