@@ -30,13 +30,19 @@ class Pikachu(pokemon.Pokemon):
         self.moves.append(Move("Thundershock", "Electric", 20))
         self.moves.append(Move("Tail Whip", "Normal", 0))
 
+if __name__ == "__main__":
+    char = Charmander()
+    print(char.moves)
 
-char = Charmander()
+
+
+
+# char = Charmander()
 # print(char.type)
 # print(char.hp)
-
-for move in char.moves:
-    print(f"{move.name} ({move.type}): {move.power}")
-
-result = char.use_move("Scratch")
-print(result)
+#
+# for move in char.moves:
+#     print(f"{move.name} ({move.type}): {move.power}")
+#
+# result = char.use_move("Scratch")
+# print(result)
