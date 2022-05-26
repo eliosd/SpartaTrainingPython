@@ -3,7 +3,7 @@ Pillars of OOP
 1. Abstraction - hide the complicated stuff
 2. Encapsulation -
 3. Inheritance - use methods from other classes
-4. Polymorphism - [Python - method overiding] use and modify classes to fit other classes [Other languages (method overloading - methods can take different forms)]
+4. Polymorphism - [Python - method overriding] use and modify classes to fit other classes [Other languages (method overloading - methods can take different forms)]
 
 
 

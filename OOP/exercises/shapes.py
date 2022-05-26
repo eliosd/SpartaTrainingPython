@@ -38,7 +38,9 @@ class Square(Rectangle):
 
 
 
-
-
 shape1 = Square(5)
 print(shape1.get_area())
+print(shape1)
+
+rect = Rectangle(10, 5)
+print(rect.get_area())
